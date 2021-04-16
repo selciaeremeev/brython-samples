@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Brython
+brython
+
+# VSCode
+.vscode
